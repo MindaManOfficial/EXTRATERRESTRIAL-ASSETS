@@ -1,2 +1,2 @@
 # EXTRATERRESTRIAL-ASSETS
-Assets for a PenguinMod game because some files are too large to upload D:
+This GitHub is NOT intended to be used outside of for the game EXTRATERRESTRIAL.
